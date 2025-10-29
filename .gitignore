@@ -1,0 +1,35 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+.pnpm-store/
+
+# Android/Gradle
+.gradle/
+build/
+**/build/
+local.properties
+*.iml
+captures/
+
+# Java/Kotlin
+out/
+*.class
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Env & secrets
+.env
+.env.*
